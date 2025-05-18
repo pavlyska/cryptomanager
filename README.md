@@ -287,6 +287,15 @@ for target in target_currencies:
 
 MIT - используйте как хотите, см. файл [LICENSE](LICENSE) для подробностей.
 
+## Связь:
+
+Telegram: @pavlyska
+Discord: pavlyska
+
+Страница на pypl: https://pypi.org/project/cryptomanager/#description
+
+### С ❤ к миру
+
 ---
 
 Разработано для удобной работы с криптовалютами и обычными валютами без необходимости API ключей.
